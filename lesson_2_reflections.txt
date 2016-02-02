@@ -17,4 +17,20 @@ organized? How would branches help?
 When a new feature is implemented and is needed that the current features do not
 be modified.
 
+How do the diagrams help you visualize the branch structure?
+With the diagrams, I can see the outdated branches and prevent losting changes.
+
+What is the result of merging two branches together? Why do we represent it 
+in the diagram the way we do?
+The result is only one branch with the result of the two branches and also with
+the commits history of the two branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+I did't understand this part of the course. I need to review this in another day.
+
+
+
+
+
 
